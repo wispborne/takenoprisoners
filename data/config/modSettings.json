@@ -1,11 +1,7 @@
 {
   "TakeNoPrisoners": {
-    #setting this too high may permanently brick your save at some point in the future
-    #if you then ping me about your save being bricked, you get added to the wall of shame
+    # Changing maxPrisoners to be too high may permanently brick your save at some point in the future.
     "maxPrisoners": 15,
-    
-    #wall of shame:
-    #tim (lmao)
 
     "factionsWithConfigs": [
       "tritachyon",
