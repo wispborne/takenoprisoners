@@ -48,5 +48,16 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="Kotlin-Runtime1" level="application" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../MagicLib/jars/MagicLib-Kotlin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../MagicLib/jars/MagicLib-Kotlin.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
